@@ -1,0 +1,4 @@
+int16 duration
+int8 intensity
+---
+bool result
